@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Plan"
+    url: /plan/
+  - title: "Sleep"
+    url: /sleep/
+  # - title: "Blogs"
+  #   url: //
+  # - title: "Sitemap"
+  #   url: /sitemap/

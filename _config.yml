@@ -77,7 +77,12 @@ analytics:
   google:
     tracking_id          : "UA-96189021-1"
 
-
+# Ads
+ads:
+  google:
+    ad-client: "ca-pub-8728996999064894"
+    ad-slot: "7262548563"
+    
 # Site Author
 author:
   name             : # "Guangming Lang"

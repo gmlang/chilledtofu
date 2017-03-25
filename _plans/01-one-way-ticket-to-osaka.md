@@ -9,8 +9,6 @@ title: "One Way Ticket to Osaka"
 >
 > <cite>Haruki Murakami, [Kafka on the Shore](http://amzn.to/2nsus9A)</cite>
 
-{% include ad-inpost.html %}
-
 It's time to visit Japan. Having read all the books by Murakami (except the few ones that haven't been translated to English), I've become curious. I've never been a big reader growing up, so it's an interesting fact that I read so much Murakami. Murakami's characters never have to plan when the time comes for traveling. They just pack and go and they always have more than enough cash. Most of us cannot do that, and have to spend quite some time planning, especially if you're going to a different country for a longer period, like what I'm about to do.  
 
 So I'm going to Japan, but where in Japan? Somewhere in the Kansai region. Why Kansai? Because I remember I was drooling when I was reading the part where Midori cooks Kansai dishes in [Norwegian Wood](http://amzn.to/2nJmTMh). Where in Kansai? Osaka. Because Osaka is the transportation hub of Kansai, and it's known for its delicious food and down-to-earth people. Plus, it's less expensive than the more famous cities like Tokyo or Kyoto. 

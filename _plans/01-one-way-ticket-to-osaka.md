@@ -15,6 +15,8 @@ So I'm going to Japan, but where in Japan? Somewhere in the Kansai region. Why K
 
 So I'm going to Osaka. I need to buy a plane ticket and I want to buy it cheap. The solution is [skyscanner](https://www.skyscanner.com). It's very easy to use and I'm going to show you how I used it to find a cheaper flight to Osaka. You may not go to Osaka, but you can do what I did to find cheap flights to the places you'll go.
 
+{% if site.ads.google.ad-client and site.ads.google.ad-slot %}{% include ad-inpost.html %}{% endif %}
+
 ## Input 
 
 ![center](/assets/images/one-way-ticket-to-osaka/1.png)

@@ -284,6 +284,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar: true
       share: true
       ads: true
   # _sleep 

@@ -11,7 +11,7 @@ Welcome to my travel blog. I'm chilled tofu and I'll be your tour guide and conn
 ## Get updates for FREE
 Enter your email in the box below to receive occasional emails about the most amazing food I ate and the most comfortable places I slept at during my travels. I'll never spam you and will only send useful stuff that you'll love! 
 
-<form style="border:5px solid #ccc;padding:5px;text-align:center;" action="https://tinyletter.com/chilledtofu" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/chilledtofu', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:240px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
+<form style="border:5px solid #ccc;padding:15px;text-align:center;" action="https://tinyletter.com/chilledtofu" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/chilledtofu', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:240px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
  
 
 ## A little about me

@@ -1,6 +1,3 @@
-<!-- add the following line to the beginning of footer.html to display adds on footer -->
-{% if site.ads.google.ad-client and site.ads.google.ad-slot %}{% include ad-footer.html %}{% endif %}
-
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -28,4 +25,7 @@
 <br>
 Disclosure: Many of the links on this page are affiliate links, which means if you decide to make a purchase, I will earn a small commission. There's no extra cost to you. Everything I recommend on this page is because I use it now, or have used it previously. Thank you!
 </div>
+
+<!-- add the following line to the beginning of footer.html to display adds on footer -->
+{% if site.ads.google.ad-client and site.ads.google.ad-slot %}{% include ad-footer.html %}{% endif %}
 

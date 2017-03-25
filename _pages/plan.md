@@ -1,5 +1,5 @@
 ---
-title: "My Travel Plans"
+title: "How I Plan My Travels"
 permalink: /plan/
 layout: archive
     

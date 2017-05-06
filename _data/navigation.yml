@@ -6,7 +6,7 @@ main:
     url: /plan/
   - title: "Sleep"
     url: /sleep/
-  # - title: "Blogs"
-  #   url: //
+  - title: "Tools"
+    url: /tools/
   # - title: "Sitemap"
   #   url: /sitemap/

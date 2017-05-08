@@ -22,4 +22,5 @@ Tabelog and Gurunavi are yelp like platforms in Japan. Their usage are ranked to
 * [Search Gurunavi in Traditional Chinese](https://cabaceo.shinyapps.io/gurunavi-tw/)
 * [Search Gurunavi in Japanese](https://cabaceo.shinyapps.io/gurunavi-jp/)
 
+- - -
 [^1]: "I am a deeply superficial person." - Andy Warhol 

@@ -6,4 +6,13 @@ title: "Travel Insurance"
 >
 > <cite>Haruki Murakami, [After the Quake](http://amzn.to/2qpS6mq)</cite>
 
-I thought of this quote when I was researching for travel insurance. If subconsciously I wanted to get away from myself through this Japan trip, buying travel insurance proved that I failed at it. But the good news was that it didn't take me much time to decide where to buy it from: [World Nomads](https://www.worldnomads.com/travel-insurance/). If you google around, you'll find its popularity, for example, [Nomadlist](https://nomadlist.com) recommends it. Its price is also very reasonable. It cost me $335 (standard plan) for 6 months in Japan and Taiwan. You can read the details of its coverage on their website after filling in your travel info and clicking the "Get a Price" button. 
+I thought of this quote when I was buying travel insurance for my Asia trip. If I wanted to get away from myself, would I still think about travel insurance? I don't know, but I know I'd tell the story like this
+
+> Years ago, when I was *almost young*[^1], I wanted to get away from myself by traveling far, and I didn't forget to buy travel insurance. 
+
+That's that. 
+
+I bought the standard plan from [World Nomads](https://www.worldnomads.com/travel-insurance/). The price was reasonable, for example, it cost me $335 for 6 months in Japan and Taiwan. You can read what people (digital nomads) said about their experiences with the claim process [here](https://nomadforum.io/t/how-are-your-experiences-with-world-nomads-travel-insurance/6299/8).
+
+- - -
+[^1]: "We met when we were almost young" - Leonard Cohen, [So Long, Marianne](http://amzn.to/2rCkSAm)

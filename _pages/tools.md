@@ -5,7 +5,7 @@ permalink: /tools/
 ---
 
 ## Search for Airbnbs 
-Airbnb is good except it doesn't allow you to filter by star ratings and it shows you photos of homes right off the bat. The latter is especially irritating because as "a deeply superficial person,"[^1] it's hard not to focus my eyeballs on pretty pictures, but it's impolite to treat a short-term rental discovery platform as merely a photo-sharing site. 
+Airbnb is good except it doesn't allow you to filter by star ratings and it shows you photos of homes right off the bat. The latter is especially irritating because as *a deeply superficial person*[^1], it's hard not to focus my eyeballs on pretty pictures, but it's impolite to treat a short-term rental discovery platform as merely a photo-sharing site. 
 
 To help find the highest rated Airbnbs in the lest amount of time, I made the following apps. They search for Airbnb listings in real time and will only return the ones with at least 4 stars and 5 pictures. They also allow you to specify important filtering criteria that're somewhat hidden from Airbnb's homepage such as neighborhood, superhost or business travel ready, and if the host can speak English or Chinese. The returned listings are ranked, first by their star ratings and then by the number of reviews. You can then click on them to view photos and read about people's reviews on Airbnb. 
 

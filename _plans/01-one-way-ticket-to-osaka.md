@@ -17,23 +17,23 @@ So I'm going to Osaka. The first thing is to buy a cheap plane ticket. Here come
 
 ## Input 
 
-![center](/assets/images/one-way-ticket-to-osaka/1.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/1.png)
 As you can see from the screenshot, I have a very specific destination and departure date. If you are flexible with either or both, you can get dirt cheap flights that cost $34 or less. For example, if you're up for any destination, enter or select "Everywhere" in the **To** box. If you're flexible with departure date, click the **Depart** box and then **Whole month**, and select **Cheapest month** or any of the 12 months shown. Also, sometimes **Roundtrip** tickets are cheaper than **One way** tickets. Other times, buying **Multi-city** is cheaper than buying independently. So play with different inputs, and after you are done, click the green **Search flights** button. Skyscanner will return a screen like this.
-![center](/assets/images/one-way-ticket-to-osaka/2.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/2.png)
 
 You can select the cheapest airline at this point. Or you can filter the results by airlines. Just uncheck those small checkboxes in the sidebar. 
 
 ## Filter by Airlines
 For example, I've heard good things about Korean airlines, so I'd love to try them out. Asiana Airline is a Korean airline company and its price is very competitive. The screen below shows the filtered result: Asiana Airline, $907.
-![center](/assets/images/one-way-ticket-to-osaka/3.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/3.png)
 
 ## Cut the price even more
 If you click the itinerary box (NOT the green select button), a screen will pop up showing you where your flight connects at. In my case, the first stop is Chicago O'Hare International airport (ORD). 
-![center](/assets/images/one-way-ticket-to-osaka/4.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/4.png)
 
 I know I can take the Amtrak to Chicago for $37, so it might be cheaper to fly out from Chicago instead of Detroit. And when I changed my departure city to Chicago and surely the price dropped to $642.
-![center](/assets/images/one-way-ticket-to-osaka/5.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/5.png)
 
 ## Book it
 When you find what you want, just click the green **Select** button, a screen will pop up, listing the websites where you can buy the ticket. In my case, vayama offered the lowest price.
-![center](/assets/images/one-way-ticket-to-osaka/6.png)
+![center](/assets/images/plans/01-one-way-ticket-to-osaka/6.png)

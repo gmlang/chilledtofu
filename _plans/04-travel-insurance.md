@@ -8,7 +8,7 @@ title: "Travel Insurance"
 
 I thought of this quote when I was buying travel insurance for my Asia trip. If I wanted to get away from myself, would I still think about travel insurance? I don't know, but I know I'd tell the story like this
 
-> Years ago, when I was *almost young*[^1], I wanted to get away from myself by traveling far, and I didn't forget to buy travel insurance. 
+> Years ago when I was almost young[^1], I wanted to get away from myself by traveling far, and I didn't forget to buy travel insurance. 
 
 That's that. 
 

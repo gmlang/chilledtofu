@@ -1,11 +1,11 @@
 ---
 title: ""
-permalink: /city/
+permalink: /chicago/
     
 ---
 
 <div class="grid__wrapper">
-  {% for post in site.city %}
+  {% for post in site.chicago %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

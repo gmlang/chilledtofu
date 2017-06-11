@@ -33,7 +33,6 @@ gallery:
   - url: /assets/images/montreal/parc-de-portugal/cohen-house-door.jpg
     image_path: /assets/images/montreal/parc-de-portugal/cohen-house-door.jpg
     alt: "Cohen's House Close-Up"
-ads: true
   
 ---
 

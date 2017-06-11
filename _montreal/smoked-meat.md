@@ -42,7 +42,7 @@ When I was in Chicago last time, I had some Montreal-styled pastrami at the Fren
 
 That's all she said. As usual, much were left unsaid. Why did she go to Montreal? What did she do there? Did she go alone? And how was the real thing? 
 
-The real thing, like all other real things in life, has a plain name. I discovered this when I visited Montreal under the joyous summer sun. Without the need of self-advertising, the real thing is just called smoked meat. And the meat is beef.   
+The real thing, like all other real things in life, has a plain name. I discovered this when I visited Montreal under the joyous summer sun. Without the need for self-advertising, the real thing is just called smoked meat. And the meat is beef.   
 
 I love the name smoked meat. It's sincere, like Cohen's songs. "We met when we were almost young" Cohen sang it. Now I've tasted smoked meat, I know exactly the feeling of "almost young."
 

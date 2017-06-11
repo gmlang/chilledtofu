@@ -246,6 +246,12 @@ collections:
   sleep:
     output: true
     permalink: /:collection/:path/  
+  montreal:
+    output: true
+    permalink: /:collection/:path/    
+  chicago:
+    output: true
+    permalink: /:collection/:path/    
   osaka:
     output: true
     permalink: /:collection/:path/
@@ -297,6 +303,22 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _montreal
+  - scope:
+      path: ""
+      type: montreal
+    values:
+      layout: single
+      author_profile: false
+      share: true 
+  # _chicago
+  - scope:
+      path: ""
+      type: chicago
+    values:
+      layout: single
+      author_profile: false
+      share: true             
   # _osaka
   - scope:
       path: ""

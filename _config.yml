@@ -303,6 +303,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      ads: true
   # _montreal
   - scope:
       path: ""
@@ -311,6 +312,7 @@ defaults:
       layout: single
       author_profile: false
       share: true 
+      ads: true
   # _chicago
   - scope:
       path: ""
@@ -318,7 +320,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true             
+      share: true    
+      ads: true         
   # _osaka
   - scope:
       path: ""
@@ -327,6 +330,7 @@ defaults:
       layout: single
       author_profile: false
       share: true    
+      ads: true
   # _kyoto
   - scope:
       path: ""
@@ -335,6 +339,7 @@ defaults:
       layout: single
       author_profile: false
       share: true    
+      ads: true
   # _kobe
   - scope:
       path: ""
@@ -343,6 +348,7 @@ defaults:
       layout: single
       author_profile: false
       share: true    
+      ads: true
   # _tokyo
   - scope:
       path: ""
@@ -350,4 +356,5 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true          
+      share: true    
+      ads: true      

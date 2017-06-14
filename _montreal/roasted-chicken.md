@@ -1,6 +1,6 @@
 ---
 title: "Portuguese Roasted Chicken"
-excerpt: "Chicken legs are more expensive than chest"
+excerpt: "When it comes to food, he prefers to eat things he's familiar with. The most adventuous food he's eaten is sushi. Even when he went to Iceland, he ordered a burger and fries, which costed him twenty some bucks."
 header:
   image: /assets/images/montreal/roasted-chicken/cocorico1.jpg
   teaser: /assets/images/montreal/roasted-chicken/cocorico1.jpg

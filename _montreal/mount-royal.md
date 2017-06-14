@@ -23,7 +23,7 @@ gallery:
 
 People in Montreal come out in the summer. At the base of Mount Royal, the grasses are filled with people. Some are lying around, and some are playing soccer. Some are reading books, and some are chatting with friends. Some have a shirt on, and some are half-naked. Walking amongst them, you smell pot in the air. 
 
-"At the base of the eastern slope, there's a tall statue, where people will gather and play drums. You should go." The girl who told the story of giant seahorses told me that. So I went and watched people trying to get tranced.
+"Near the eastern slope, there's a tall statue, where people will gather and play drums. You should go." The girl who told the story of giant seahorses told me that. So I went and watched people trying to get tranced.
 
 I heard Lenoard Cohen was burried somewhere nearby, but I didn't look for his grave. Instead, I took the trail all the way up to the top of Mount Royal, and saw an old man playing the guitar and singing Hallelujah in French. I wanted to leave him some money, but I found out that he only sang when people walked by. He didn't even finish the song once and he wasn't any good. So my heart grew cold and I just left. 
  

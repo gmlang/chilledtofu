@@ -66,6 +66,6 @@ I met two girls outside of Schwartz's. The line was long so we ordered smoked me
 
 On Yelp:
 
-* [Main Deli Steak House](https://www.yelp.com/biz/main-deli-steak-house-montréal-3)
-* [Schwartz's](https://www.yelp.com/biz/schwartzs-montréal-2)
+* [Main Deli Steak House](https://www.yelp.com/biz/main-deli-steak-house-montréal-3). Accepts US visa credit card.
+* [Schwartz's](https://www.yelp.com/biz/schwartzs-montréal-2). Schwartz's on the side where you can get food to-go is less busy than the main restaurant, and they also accept US visa credit card.
 

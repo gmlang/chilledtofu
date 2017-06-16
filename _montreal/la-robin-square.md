@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Experience"
-excerpt: ""
+excerpt: "Neither ultimate experience or ultimate intimacy can be trusted. But once in a while, we need to order that pork belly and dance the last dance."
 header:
   image: /assets/images/montreal/le-robin-square/robinsq1.jpg
   teaser: /assets/images/montreal/le-robin-square/robinsq1.jpg

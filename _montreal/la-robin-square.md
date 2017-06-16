@@ -17,7 +17,7 @@ gallery:
   
 ---
 
-At la robin square, they serve a dish called the ultimate experience. It's pork belly and it's praised by people on yelp. I ordered it and regretted it after the first bite. The smoked skin wasn't that crispy, the meat wasn't melting, and it was very fatty. The ultimate experience turned out to be a disappointment. 
+At le robin square, they serve a dish called the ultimate experience. It's pork belly and it's praised by people on yelp. I ordered it and regretted it after the first bite. The smoked skin wasn't that crispy, the meat wasn't melting, and it was very fatty. The ultimate experience turned out to be a disappointment. 
 
 I used to go to this milonga at La Viruta in Buenos Aires. At the end of the night, which was usually 4 or 5 in the morning, the DJ would play a long and slow tango nuevo and dim the lights until complete darkness. That was the ultimate intimacy for the dancers. But what followed was La Cumparsita and all the lights turned on, big and bright lights, signaling the party was over. Under those big bright lights, I couldn't shake off the feeling of being exposed. Now I think about it, maybe the whole thing was a metaphor, maybe the price you have to pay for ultimate intimacy is exposure, and that's why people have trouble opening their hearts completely. 
 

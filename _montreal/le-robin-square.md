@@ -35,4 +35,4 @@ The good news was that their mac and cheese was fantastic. The best I ever had. 
 
 On Yelp:
 
-* [Le Robin Square](https://www.yelp.com/biz/le-robin-square-montréal-2)
+* [Le Robin Square](https://www.yelp.com/biz/le-robin-square-montréal-2). Accepts US visa credit card. 

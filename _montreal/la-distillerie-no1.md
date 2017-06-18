@@ -67,7 +67,6 @@ But those legs swam away.
 {% include gallery caption="Cocktails at La Distillerie No.1" %}
 
 
-
 On Yelp:
 
-* [La Distillerie No.1](https://www.yelp.com/biz/la-distillerie-no-1-montréal-6)
+* [La Distillerie No.1](https://www.yelp.com/biz/la-distillerie-no-1-montréal-6). Accepts US visa credit card. 

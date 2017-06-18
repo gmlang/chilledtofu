@@ -54,7 +54,7 @@ Later that night he learned that those legs came from many years of hard trainin
 
 "Pain is inevitable. Suffering is optional." She repeated the same line he quoted in the pool, and they both laughed.
 
-His brother warned him to be careful with great legs. "They'll get to you every time." That was what he said. He remembered it when he touched her thighs. The sensation shook the core of his Self, and he felt the urge of going to the deep forest, digging up Pandora's box and letting hope out. 
+His brother warned him about great legs before. "They'll get to you every time." That was what he said. He remembered it when he touched her thighs. The sensation shook the core of his Self, and he felt the urge of going to the deep forest, digging up Pandora's box and letting hope out. 
 
 When he was in high school, his brother drilled him hard with pull-ups. He'd make sure he felt pain. The pain often broke him and he'd cry. Later he went to college and eventually got a PhD. His brother never went to college. Instead, he was sent to Iraq, saw a guy blown up, came back and got skin cancer. 
 

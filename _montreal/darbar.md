@@ -1,6 +1,6 @@
 ---
 title: "Salted Lassi and Garlic Naan"
-excerpt: ""
+excerpt: "Holding hands in the graveyard, we read words on the tombstones. Some people lived big and others died young..."
 header:
   image: /assets/images/montreal/darbar/teaser.jpg
   teaser: /assets/images/montreal/darbar/teaser.jpg
@@ -19,8 +19,7 @@ gallery:
     alt: "Main Dish 2"
   
 ---
-
-
+  
 I asked her to dinner.  
 "Are you a warrior?"   
 She said,  

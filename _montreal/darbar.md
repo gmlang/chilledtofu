@@ -23,8 +23,8 @@ gallery:
 I asked her to dinner.  
 "Are you a warrior?"   
 She said,  
-"Because I used to eat horse legs with the great Mongol Khan by  
-the wild fire."  
+"Because I used to eat horse legs with the great Mongol Khan  
+By the wild fire."  
 
 I told her I wasn't a lover.  
 She ordered an "easy to love" for me and  

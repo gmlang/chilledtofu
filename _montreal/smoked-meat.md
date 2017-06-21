@@ -36,19 +36,15 @@ gallery:
   
 ---
 
-When I was in Chicago last time, I had some Montreal-styled pastrami at the French market. I emailed her a photo of the shop sign, and she wrote me back a few seconds later. 
+When I was in Chicago last time, I had some Montreal-styled pastrami at the French market. I emailed her a photo of the shop sign. She wrote me back a few seconds later, "I've had the real thing." Much were left unsaid. Why did she go to Montreal? Did she go alone? What did she do there? And how was the real thing? 
 
-"I've had the real thing." 
-
-That's all she said. As usual, much were left unsaid. Why did she go to Montreal? What did she do there? Did she go alone? And how was the real thing? 
-
-The real thing, like all other real things in life, has a plain name. I discovered this when I visited Montreal under the joyous summer sun. Without the need for self-advertising, the real thing is just called smoked meat. And the meat is beef.   
+The real thing, like all other real things in life, has a plain name. I discovered this when I visited Montreal under the summer sun. No need for self-advertising. The real thing is just called smoked meat. 
 
 I love the name smoked meat. It's sincere, like Cohen's songs. "We met when we were almost young" Cohen sang it. Now I've tasted smoked meat, I know exactly the feeling of "almost young."
 
-We used to dance the Argentine tango all night long and the night would grow short. When the morning came, we'd become imperfect strangers. Sometimes we ran into each other on the street, and she always looked preoccupied. No, we met when we were still young, but you could tell from those contemplative looks that she was beyond her youth. She was both young and almost young.  
+We used to dance the Argentine tango all night long and the night would grow short. When the morning came, we'd become imperfect strangers. Sometimes we ran into each other on the street, and she always looked preoccupied. We met when we were still young, but you could tell from those contemplative looks that she was beyond her youth. She was both young and almost young.  
 
-I went to Montreal for the real thing. I walked up and down St Laurent Blvd. I sat in Main Deli Steak House and ordered a smoked meat sandwich with beef and chop liver, a second smoked meat sandwich with beef and turkey, and a cup of black tea with 3 slices of lemons.
+I went to Montreal for the real thing. I walked up and down St Laurent Blvd. I sat in Main Deli Steak House and ordered a smoked meat sandwich of beef and chop liver, another one of beef and turkey, and a cup of black tea with lemon slices.
 
 I met two girls outside of Schwartz's. The line was long so we ordered smoked meat sandwiches to go and ate at Parc de Portugal. Lenoard Cohen's house was right behind us. There were some flowers at the front door. Must be from some fans. Under the sun, we told stories of giant seahorses that made people terrified. Those withered flowers looked very lonely. Then I remembered what Cohen sang:
 
@@ -67,5 +63,5 @@ I met two girls outside of Schwartz's. The line was long so we ordered smoked me
 On Yelp:
 
 * [Main Deli Steak House](https://www.yelp.com/biz/main-deli-steak-house-montréal-3). Accepts US visa credit card.
-* [Schwartz's](https://www.yelp.com/biz/schwartzs-montréal-2). Schwartz's on the side where you can get food to-go is less busy than the main restaurant, and they also accept US visa credit card.
+* [Schwartz's](https://www.yelp.com/biz/schwartzs-montréal-2). Schwartz's on the side is less busy than the main restaurant. You can get smoked meat sandwiches, pickles, red pepers and poutines to go. They also accept US visa credit card.
 

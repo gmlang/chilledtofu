@@ -1,6 +1,6 @@
 ---
 title: "Huevos Rancheros"
-excerpt: ""
+excerpt: "Bagel Etc, according to Cohen, is a great place to sit."
 header:
   image: /assets/images/montreal/bagel-etc/teaser.jpg
   teaser: /assets/images/montreal/bagel-etc/teaser.jpg

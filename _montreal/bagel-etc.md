@@ -29,7 +29,7 @@ I started listening to Cohen when I was in college. Finally this year, I made to
 
 I don't think about death, although I almost died once. I'm still too young to think about death, and I'm too ignorant to think about after-death. My mom thinks about death. She hears its footsteps. That's why she keeps sending me junk articles on cancer prevention and longevity even after I tell her that I never read them. I think she feels death is coming and she's afraid of it. Because of that, she's afraid of getting sick, afraid of driving, afraid of traveling, afraid of cats, afraid of spending money, afraid of learning new things, ... She was a musician for 20 some years. Now she just lets the fear of death envelope her. It's hard to age gracefully.  
 
-I met a homeless the other day and he told me something predictably human, "when we're little, we don't think. When we're young, we think about beauty and sex. When we're almost young, we think more about beauty, sex and money. When we're old, we think about all that and death."
+I met a homeless the other day and he told me something predictably human, "When we're little, we don't think. When we're young, we think about beauty and sex. When we're almost young, we think more about beauty, sex and money. When we're old, we think about all that and death."
 
 {% include gallery caption="Breakfast at Bagel Etc." %}
 

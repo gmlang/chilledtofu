@@ -1,6 +1,6 @@
 ---
 title: "Natas and Mochaccino"
-excerpt: ""
+excerpt: "I sometimes run tracks with a good friend when I'm not traveling. He's a very smart guy but he has a really hard time appreciating 'Einmal ist keinmal.' "
 header:
   image: /assets/images/montreal/anges/teaser.jpg
   teaser: /assets/images/montreal/anges/teaser.jpg

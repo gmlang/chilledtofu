@@ -41,7 +41,8 @@ gallery:
 
 {% include gallery caption="Feast at Avec" %}
 
-The final bill is 
+Here's the bill.
+
 ![](/assets/images/chicago/avec/bill.jpg)
 
 

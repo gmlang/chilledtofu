@@ -1,6 +1,6 @@
 ---
 title: "Salt-n-Fish based Cold Ramen with Chicken"
-excerpt: ""
+excerpt: "After some grilled pork and boiled pig feet, we were on the street again, looking for ramen."
 header:
   image: /assets/images/osaka/junk-story/interior.jpg
   teaser: /assets/images/osaka/junk-story/interior.jpg

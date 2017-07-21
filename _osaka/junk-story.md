@@ -18,7 +18,7 @@ gallery:
   
 ---
 
-After some grilled pork and boiled pig feet, we were on the street again, looking for ramen. We had a place in mind but on the way there we saw a line in front of a small ramen joint. We decided to abandon the original plan and stood in line. We ordered a bowl of ramen. The pinkish ginger opens your taste buds in an unexpected way. The egg has the appearance of a salty egg but tastes interestingly sweet. The chicken has a very light flavor with the intention of cooling off the summer heat. The noodle is chewy. It's a nice bowl of ramen overall except that the soup can be improved to make a stronger impression. It's a nice and cheap meal:
+After some grilled pork and [boiled pig feet](https://chilledtofu.com/osaka/higashi/), we were on the street again, looking for ramen. We had a place in mind but on the way there we saw a line in front of a small ramen joint. We decided to abandon the original plan and stood in line. We ordered a bowl of ramen. The pinkish ginger opens your taste buds in an unexpected way. The egg has the appearance of a salty egg but tastes interestingly sweet. The chicken has a very light flavor with the intention of cooling off the summer heat. The noodle is chewy. It's a nice bowl of ramen overall except that the soup can be improved to make a stronger impression. It's a nice and cheap meal:
 
 * cold ramen - 950 yen ($8.47)
 * minced pork over rice - 300 yen ($2.67)

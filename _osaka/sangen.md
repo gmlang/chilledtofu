@@ -1,6 +1,6 @@
 ---
 title: "Restaurant Sangen Since 1936"
-excerpt: ""
+excerpt: "A restaurant of 81 years old! That's a no-brainer."
 header:
   image: /assets/images/osaka/sangen/lunch-set.jpg
   teaser: /assets/images/osaka/sangen/lunch-set.jpg

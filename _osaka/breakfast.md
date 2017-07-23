@@ -1,6 +1,6 @@
 ---
 title: "Healthy Breakfast"
-excerpt: ""
+excerpt: "I think people who never had 5-egg omelette with cheese, sausages and potatoes are like people who never exercised. They simply don't know what they are missing."
 header:
   image: /assets/images/osaka/breakfast/random/toast-n-coffee-ice.jpg
   teaser: /assets/images/osaka/breakfast/random/toast-n-coffee-ice.jpg

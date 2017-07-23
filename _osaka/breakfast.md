@@ -52,7 +52,7 @@ I've given up on finding hearty breakfast in Osaka. All the places I went are to
 * Background music is good. One place I went to played Ella Fitzgerald.
 * Not smoke free. You'll inhale other customers' smokes.
 * Coffee is really good. But you cannot get refills.
-* The meal is not hearty enough.  
+* The meal is not hearty.  
 
 {% include gallery caption="Breakfast at 3 places in Osaka" %}
 

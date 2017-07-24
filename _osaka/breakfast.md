@@ -1,6 +1,6 @@
 ---
 title: "Healthy Breakfast"
-excerpt: "I think people who never had 5-egg omelette with cheese, sausages and potatoes are like people who never exercised. They simply don't know what they are missing."
+excerpt: "People who never had an omelette of 5 eggs with cheese, sausage and fried potatoes are like people who never worked out. They don't know what they are missing."
 header:
   image: /assets/images/osaka/breakfast/random/toast-n-coffee-ice.jpg
   teaser: /assets/images/osaka/breakfast/random/toast-n-coffee-ice.jpg
@@ -56,5 +56,5 @@ I've given up on finding hearty breakfast in Osaka. All the places I went are to
 
 {% include gallery caption="Breakfast at 3 places in Osaka" %}
 
-Let me just say this. I think people who never had 5-egg omelette with cheese, sausages and potatoes are like people who never exercised. They simply don't know what they are missing. If you know a great breakfast place in Osaka. Let me know. 
+People who never had an omelette of 5 eggs with cheese, sausage and fried potatoes are like people who never worked out. They don't know what they are missing. If you know a great breakfast place in Osaka. Let me know. 
 

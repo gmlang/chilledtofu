@@ -1,5 +1,5 @@
 ---
-title: "Healthy Breakfast"
+title: "Healthy Breakfast, Too Healthy"
 excerpt: "People who never had an omelette of 5 eggs with cheese, sausage and fried potatoes are like people who never worked out. They don't know what they are missing."
 header:
   image: /assets/images/osaka/breakfast/random/toast-n-coffee-ice.jpg

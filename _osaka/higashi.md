@@ -1,5 +1,5 @@
 ---
-title: "Calpico and Pig Feet"
+title: "Calpico and Boiled Pig Feet"
 excerpt: "In this age of Yelp and Tabelog, there's something thrilling about searching for food on foot."
 header:
   image: /assets/images/osaka/higashi/pig-feet.jpg

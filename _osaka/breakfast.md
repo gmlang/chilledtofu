@@ -58,7 +58,7 @@ When people are unfullfilled, they start asking questions. That's how, for examp
 * Why couldn't there be green arugulas, red tomatoes, and yellow peppers?
 * Who moved the cheese?
 
-Friend, let me tell you something: I've given up on finding hearty breakfast in Osaka. Notice the keyword here is "hearty" not "healthy." All the places I tried are healthy, healthy in a bad way. For one, people here don't seem to care about breakfast. You see, if you eat a Japanese breakfast, you'll be eating rice, miso soup, pickled vegetables and grilled fish. The same kind of things you eat for lunch and dinner. Sure, there're other things you can eat for lunch, and dinner is much more elaborate. But you know what I mean. I prefer to eat very different things for breakfast and dinner, just like most people don't introduce their lover to their spouse. So I've been eating at those 喫茶 places (cafe). Here're some takeaways:
+Friend, let me tell you something: I've given up on finding hearty breakfast in Osaka. Notice the keyword here is "hearty" not "healthy." All the places I tried are healthy, healthy in a bad way. For one, people here don't seem to care about breakfast. You see, if you eat a Japanese breakfast, you'll be eating rice, miso soup, pickled vegetables and grilled fish. The same kind of things you eat for lunch and dinner. Sure, there're other things you can eat for lunch, and dinner is much more elaborate. But you know what I mean. I prefer to eat very different things for breakfast and dinner, just like most people don't introduce their lovers to their spouses. So I've been eating buttered toasts at those 喫茶 places. Here're my observations:
 
 * Old school, from background music to interior setup. Some cafe has been around for a while.
 * Some have those old electronic mahjong tables (pictures below). Taka told me playing those mahjong table is a big pastime for people of older generation. That reminded me of Murakami's [*Pinball, 1973*](http://amzn.to/2eKyMP1).
@@ -76,3 +76,5 @@ People who never had a big and salty and fatty breakfast are like people who nev
 When I said I gave up on finding hearty breakfast, I lied. I kept looking. 
 
 To be continued. 
+
+

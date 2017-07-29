@@ -1,6 +1,6 @@
 ---
 title: "The Husband and Wife Team"
-excerpt: "We walked one street after another, looking for the perfect Yakitori. If I tell you how long we walked, you'd look at me and say..."
+excerpt: "We walked one street after another, looking for the perfect Yakitori."
 header:
   image: /assets/images/osaka/yakitori-urayama/grilled-chicken-w-onion.jpg
   teaser: /assets/images/osaka/yakitori-urayama/grilled-chicken-w-onion.jpg

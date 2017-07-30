@@ -23,9 +23,9 @@ gallery:
     image_path: assets/images/kobe/pinocchio/front.jpg
   - url: /assets/images/kobe/pinocchio/note.jpg
     image_path: assets/images/kobe/pinocchio/note.jpg
-   
-  
+     
 ---
 
 
 {% include gallery caption="Pinocchio, the pizza parlor Murakami used to frequent in high school." %}
+

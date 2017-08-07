@@ -28,5 +28,13 @@ gallery:
 
 {% include video id="226706150" provider="vimeo" %}
 
+{% include video id="228640807" provider="vimeo" %}
+
+{% include video id="228641755" provider="vimeo" %}
+
+{% include video id="226713353" provider="vimeo" %}
+
+{% include video id="228642116" provider="vimeo" %}
 
 
+{% include video id="228644203" provider="vimeo" %}

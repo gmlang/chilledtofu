@@ -26,6 +26,13 @@ gallery:
      
 ---
 
+> When I was young, I often used to come to this place with my girlfriend, down a few cold beers, and eat a freshly baked pizza with the same kind of numbered tag. We’d talk about our future. And of all the predictions we made then, not a single one came true. But this was a long, long time ago. Back when there was still a sea here, back when there were mountains.
+>
+> <cite>Haruki Murakami, [A Walk to Kobe](https://granta.com/a-walk-to-kobe/)</cite>
+
+In the same story, Murakami also mentioned of going back alone to the same Italian restaurant 30 years later and ordered a seafood pizza with a number tag of 958,816. 
+
+The restaurant is called Pinocchio, situated on the hilly side of the town, away but not far away from the bustling downtown streets of Kobe. After spending the afternoon looking at the Kobe harbor, I strolled past the downtown area and went there for dinner. I also ordered a seafood pizza and got a number tag of 1,346,555. Between Murakami's last visit and mine, the restaurant has long surpassed the one-million-pizza-sold mark. That's not a small accomplishment. Opened in 1961, Pinocchio takes pride in being out of fashion and resisting change, and like Murakami, it takes pride in being stubborn. 
 
 {% include gallery caption="Pinocchio, the pizza parlor Murakami used to frequent in high school." %}
 

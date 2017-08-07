@@ -34,5 +34,7 @@ In the same story, Murakami also mentioned of going back alone to the same Itali
 
 The restaurant is called Pinocchio, situated on the hilly side of the town, away but not far away from the bustling downtown streets of Kobe. After spending the afternoon looking at the Kobe harbor, I strolled past the downtown area and went there for dinner. I also ordered a seafood pizza and got a number tag of 1,346,555. Between Murakami's last visit and mine, the restaurant has long surpassed the one-million-pizza-sold mark. That's not a small accomplishment. Opened in 1961, Pinocchio takes pride in being out of fashion and resisting change, and like Murakami, it takes pride in being stubborn. 
 
+To be updated ...
+
 {% include gallery caption="Pinocchio, the pizza parlor Murakami used to frequent in high school." %}
 

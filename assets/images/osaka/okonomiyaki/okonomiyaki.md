@@ -1,3 +1,0 @@
-Butatamayaki (pork)
-
-Sujinegiyaki (beef)

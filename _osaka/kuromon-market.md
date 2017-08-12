@@ -47,6 +47,10 @@ gallery:
     image_path: /assets/images/osaka/kuromon-market/beer.jpg
   - url: /assets/images/osaka/kuromon-market/mi-na-to/interior.jpg
     image_path: /assets/images/osaka/kuromon-market/mi-na-to/interior.jpg
+  - url: /assets/images/osaka/kuromon-market/curry-rice/pickles.jpg
+    image_path: /assets/images/osaka/kuromon-market/curry-rice/pickles.jpg
+  - url: /assets/images/osaka/kuromon-market/curry-rice/curry-rice1.jpg
+    image_path: /assets/images/osaka/kuromon-market/curry-rice/curry-rice2.jpg
   
 ---
 

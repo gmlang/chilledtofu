@@ -24,8 +24,8 @@ gallery:
 
 {% include gallery caption="Handmade undon at Kendonya" %}
 
-On Yelp
+Kendonya
 
-[Kendonya](https://www.yelp.com/biz/けんどん屋-京都市)
-
+* [Yelp](https://www.yelp.com/biz/けんどん屋-京都市)
+* [Website](https://kendonya.jimdo.com)
 

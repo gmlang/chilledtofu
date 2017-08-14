@@ -23,3 +23,8 @@ gallery:
 
 {% include gallery caption="Lee's Friend's Bar at Misono" %}
 
+**Location**
+
+Misono Building
+
+542-0074, 2-3-9 Sennichimae, Chuo Ward, Osaka.

@@ -36,7 +36,8 @@ Suji-negi: negiyaki with fibrous meet of beef and negi.
 
 {% include gallery caption="Okonomiyaki at Fukutarou" %}
 
-On Tabelog (Japanese Yelp):
+福太郎(Fukutarou)
 
-* [福太郎(Fukutarou)](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
+* [Tabelog](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
+* [Website](http://2951.jp)
 

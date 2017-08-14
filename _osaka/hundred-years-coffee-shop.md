@@ -23,4 +23,7 @@ gallery:
 
 {% include gallery caption="Coffee & Donut at Hiraoka Coffee" %}
 
-[Location](https://www.facebook.com/pg/hiraokacoffee/about/?ref=page_internal)
+Hiraoka Coffee
+
+* [Location](https://www.facebook.com/pg/hiraokacoffee/about/?ref=page_internal)
+* [Website](https://www.hiraoka-coffee.jp)

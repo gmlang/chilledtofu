@@ -43,3 +43,9 @@ gallery:
 {% include video id="229812969" provider="vimeo" %}
 
 {% include video id="228644203" provider="vimeo" %}
+
+# Live House (ライブハウス) venue
+
+[Reed Cafe](https://www.facebook.com/ReedCafe/), located on the 6th floor of a building named mario. 
+
+What's a [live house](https://en.wikipedia.org/wiki/Live_house)?
